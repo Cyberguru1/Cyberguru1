@@ -16,7 +16,7 @@
   </div>
 </div>
 <h1>
-  hey there
+  Hello there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
  
@@ -25,17 +25,21 @@
 </div>
 
 
-<!--
-**Cyberguru1/Cyberguru1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :seedling: &nbsp;I’m currently an alx holberton student learning Software Engineeering
+- :speech_balloon: &nbsp;At my free time i do Ctfs check out my order github **[cyberguru]**
+- :speech_balloon: &nbsp;I also play Call of Duty at my leasure time feel free lets play along @ **Cyberguru1**
+- :mailbox: &nbsp;Ask me anything on my **[issues page]**
+- :computer: &nbsp;Connect with me on **[LinkedIn]**
+
+<br>
+
+<!-- prettier-ignore-start -->
+<!-- START_SECTION:ascii_graph -->
+
+<!-- links -->
+
+[cyberguru]: https://github.com/hamza34-del/  "cyberguru"
+[linkedin]: https://www.linkedin.com/in/hamza-saidu"Hamza LinkedIn"
+
