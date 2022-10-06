@@ -41,5 +41,5 @@
 <!-- links -->
 
 [cyberguru]: https://github.com/hamza34-del/  "cyberguru"
-[linkedin]: https://www.linkedin.com/in/hamza-saidu"Hamza LinkedIn"
+[linkedin]: https://www.linkedin.com/in/hamza-saidu "Hamza LinkedIn"
 
