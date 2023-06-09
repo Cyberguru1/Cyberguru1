@@ -28,7 +28,6 @@
 
 - :seedling: &nbsp;**I’m currently an alx holberton student learning Software Engineeering**
 - :speech_balloon: &nbsp;**At my free time i do Ctfs check out my order github **[cyberguru]****
-- :speech_balloon: &nbsp;**I also play Call of Duty at my leasure time feel free lets play along @ **Cyberguru1****
 - :mailbox: &nbsp;**Ask me anything on my **[issues page]****
 - :computer: &nbsp;**Connect with me on **[LinkedIn]****
 
