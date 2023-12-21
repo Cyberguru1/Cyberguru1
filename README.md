@@ -26,9 +26,10 @@
 
 
 
-- :seedling: &nbsp;**I’m currently an alx holberton student learning Software Engineeering**
-- :speech_balloon: &nbsp;**At my free time i do Ctfs check out my order github **[cyberguru]****
-- :mailbox: &nbsp;**Ask me anything on my **[issues page]****
+- :seedling: &nbsp;**I’m an ALX SE Holberton Grad**
+- :speech_balloon: &nbsp;**I am currently learning System design principles and practices**
+- :speech_balloon: &nbsp;**I Solve LeetCode Challenges to Keep my self in shape**
+- :speech_balloon: &nbsp;**In my free time I do Ctfs check out my blog **[cyberguru]****
 - :computer: &nbsp;**Connect with me on **[LinkedIn]****
 
 <br>
@@ -38,7 +39,7 @@
 
 <!-- links -->
 
-[cyberguru]: https://github.com/hamza34-del/  "cyberguru"
+[cyberguru]: https://blog.cyb3rguru.tech  "cyberguru"
 [linkedin]: https://www.linkedin.com/in/hamza-saidu "Hamza LinkedIn"
   
 [![@cyberguru1's Holopin board](https://holopin.me/cyberguru1)](https://holopin.io/@cyberguru1)
