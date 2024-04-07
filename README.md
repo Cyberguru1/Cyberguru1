@@ -42,5 +42,14 @@
 
 [cyberguru]: https://blog.cyb3rguru.tech  "cyberguru"
 [linkedin]: https://www.linkedin.com/in/hamza-saidu "Hamza LinkedIn"
+
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Cyberguru1&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)  
+
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=hamzasaidu34&theme=dark&border=no-border" />
+
+#### Quotes
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
   
 [![@cyberguru1's Holopin board](https://holopin.me/cyberguru1)](https://holopin.io/@cyberguru1)
