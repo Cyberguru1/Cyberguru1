@@ -28,7 +28,7 @@
 
 - :seedling: &nbsp;**I’m an ALX SE Holberton Grad**
 - :speech_balloon: &nbsp;**I am currently learning System design principles and practices**
-- :speech_balloon: &nbsp;**I Solve LeetCode Challenges to Keep my self in shape**
+- :speech_balloon: &nbsp;**I Solve LeetCode Challenges to Keep my self in shape **[leetcode]****
 - :speech_balloon: &nbsp;**In my free time I do Ctfs check out my blog **[cyberguru]****
 - :computer: &nbsp;**Connect with me on **[LinkedIn]****
   
@@ -42,11 +42,12 @@
 
 [cyberguru]: https://blog.cyb3rguru.tech  "cyberguru"
 [linkedin]: https://www.linkedin.com/in/hamza-saidu "Hamza LinkedIn"
+[leetcode]: https://leetcode.com/u/hamzasaidu34 "Hamza Leetcode"
 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Cyberguru1&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)  
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=hamzasaidu34&theme=dark&border=no-border" />
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=hamzasaidu34&theme=dark" />
 
 #### Quotes
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
