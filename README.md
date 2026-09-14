@@ -11,6 +11,12 @@
     <a href="https://discord.com/users/cyber_guru#9217">
       <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
     </a>
+    <a href="https://bitcoin.org">
+      <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin Badge"/>
+    </a>
+    <a href="https://lightning.network">
+      <img src="https://img.shields.io/badge/Lightning%20Network-7B3FF2?style=for-the-badge&logo=lightning&logoColor=white" alt="Lightning Network Badge"/>
+    </a>
     <div align="center">
       <img src="https://komarev.com/ghpvc/?username=Cyberguru1&style=flat-square&color=blue" alt="Profile views"/>
     </div>
@@ -28,14 +34,31 @@
 
 ## About Me
 
-Hello! I'm Hamza Saidu, a passionate software engineer and tech enthusiast. Here's a little bit about me:
+I'm Hamza Saidu, a software engineer focused on building efficient, scalable systems. I hold an ALX SE Holberton certification and was a finalist in HNG11.
 
-- 🌱 **I'm an ALX SE Holberton Graduate.**
-- 🌱 **HNG11 Finalist.**
-- 💻 **Currently diving deep into system design principles and practices.**
-- 🧩 **Regularly solving LeetCode challenges to sharpen my problem-solving skills.** [Check out my LeetCode profile](https://leetcode.com/u/cyberguru1)
-- 🏆 **In my free time, I participate in Capture the Flag (CTF) competitions and share my experiences on my blog.** [Read my blog](https://cyberguru1.github.io/)
-- 🤝 **Let's connect on [LinkedIn](https://www.linkedin.com/in/hamza-saidu) and discuss all things tech!**
+**Current Work:**
+- Designing and implementing distributed systems architectures in Go and Rust
+- Developing Lightning Network applications and Bitcoin integration solutions
+- Building high-performance backend systems with concurrent processing capabilities
+
+**Technical Interests:**
+- Distributed systems design and implementation
+- Blockchain technology and second-layer protocols (Lightning Network)
+- Systems programming in Rust and Go
+- Database optimization and concurrent data processing
+- Machine learning applications and natural language processing
+
+**Development Practice:**
+- Solving algorithmic problems on [LeetCode](https://leetcode.com/u/cyberguru1) to maintain problem-solving skills
+- Contributing to open-source projects
+- Documenting technical work and learnings on my [blog](https://cyberguru1.github.io/)
+
+**Professional Background:**
+- Experience with full-stack development across multiple languages and frameworks
+- Proficiency in system design, API development, and database architecture
+- Familiarity with security considerations and cryptographic applications
+
+I'm interested in connecting with professionals working on distributed systems, blockchain technology, and backend engineering. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/hamza-saidu).
 
 ![](https://hit.yhype.me/github/profile?user_id=107911619)
 
@@ -43,12 +66,3 @@ Hello! I'm Hamza Saidu, a passionate software engineer and tech enthusiast. Here
 <div align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cyberguru1&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" width="700"/>
 </div>
-
-
-## Holopin Board
-[![@cyberguru1's Holopin board](https://holopin.me/cyberguru1)](https://holopin.io/@cyberguru1)
-
-## Inspirational Quotes
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
-Thank you for visiting my profile! I appreciate your interest and look forward to connecting with you. Let's create something amazing together!
